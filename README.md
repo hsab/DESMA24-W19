@@ -85,7 +85,8 @@ Schedule
 
 Website & Online Interaction:
 ------
-Although Github might be an unconventional platform to be used for this class, yet it allows for easy editing, structuring, and rapid adjustments to the course if need be. 
+Although Github might be an unconventional platform to be used for this class, yet it allows for easy editing, structuring, and rapid adjustments to the course if need be. [Access the course repository (View on Github) for all contents, files and the discussion board.](https://github.com/hsab/DESMA24-W19/)
+
 
 The [**Issues**](https://github.com/hsab/DESMA24-W19/issues) section allows for facilitating a dialogue among everyone. Do not get stuck on the title _Issues_, since in our case it is mostly a _Discussion_ section. Please feel free to post your questions, discoveries or inspirations in the **Issues** section so that it is shared openly with your peers as common knowledge and to prevent reemergence of similar concerns/contents. I have already posted some [examples](https://github.com/hsab/DESMA24-W19/issues/assigned/hsab) of how posts can be formatted. Please keep the title of your topic concise so that it can be easily addressed/found, and practice using the predefined labels for extra clarity. Also if you are able to help your peers, do not hesitate to do so as it will be much appreciated!
 

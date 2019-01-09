@@ -79,7 +79,7 @@ Various 3rd Party Plug-ins
 - Design a storyboard for a 30 second animation in which one or more circles and lines express their behaviour and interact with each other at some point. In 6-8 drawings show the key points that describe the piece.
 - Create a 30 second animated video based on the storyboard.
 
-*** EXERCISE: Audio & Image**
+***EXERCISE: Audio & Image**
 - Select a 15 second section of music or sound effect.
 - Using Audio to Keyframe, create a video that tightly synchronises two or more abstract shapes with the audio.
 

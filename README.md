@@ -115,3 +115,8 @@ Assignments:
 
 **3. Final Project: Bioluminescence**
 - Create a **60 second** projection mapped animation, with audio onto a sculptural form. Processes for creating this assignment will be explored in class.
+
+
+Updates:
+------
+- Jan 08: Course website initiated.

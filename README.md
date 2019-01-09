@@ -1,7 +1,7 @@
 
 # DESMA24 - Motion (Winter 19)
 
-[PDF Version of Syllabus](/Documents/Motion%20-%20W19.pdf)  
+[PDF Version of Syllabus](/Documents/Motion%20-%20W19%20Syllabus.pdf)  
 
 **Time**: Tuesday – Thursday 2:00pm–4:40pm  
 **Location**: Broad 4230  

@@ -119,4 +119,4 @@ Assignments:
 
 Updates:
 ------
-- Jan 08: Course website initiated.
+Jan 08: Course website initiated.

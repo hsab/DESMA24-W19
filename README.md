@@ -82,6 +82,16 @@ Schedule
 |**Week 11**| Mar 29 | Exhibition!|
 
 
+Website & Online Interaction:
+------
+Although Github might be an unconventional platform to be used for this class, yet it allows for easy editing, structuring, and rapid adjustments to the course if need be. 
+
+The [**Issues**](https://github.com/hsab/DESMA24-W19/issues) section allows for facilitating a dialogue among everyone. Do not get stuck on the title _Issues_, since in our case it is mostly a _Discussion_ section. Please feel free to post your questions, discoveries or inspirations in the **Issues** section so that it is shared openly with your peers as common knowledge and to prevent reemergence of similar concerns/contents. I have already posted some [examples](https://github.com/hsab/DESMA24-W19/issues/assigned/hsab) of how posts can be formatted. Please keep the title of your topic concise so that it can be easily addressed/found, and practice using the predefined labels for extra clarity. Also if you are able to help your peers, do not hesitate to do so as it will be much appreciated!
+
+Moreover, Github allows you to [Watch](https://help.github.com/articles/watching-and-unwatching-repositories/) repositories (in this case the class website), which basically means you will be notified through email any time there is a change (e.g. syllabus, resources, etc.) or an issue is submitted. 
+
+Finally, don't hesitate to explore Github and enjoy the fruits of the open-source community. There are [many](https://github.com/search?q=after+effects+plugin) [great](https://github.com/search?q=blender+addon) [things](https://github.com/search?q=cinema4d) to be discovered here!
+
 Assignments:
 ------
 **1. Behaviour & Interaction**

@@ -1,7 +1,8 @@
 
 # DESMA24 - Motion (Winter 19)
 
-[PDF Version of Syllabus](/Documents/Motion%20-%20W19%20Syllabus.pdf)  
+[PDF Version of Syllabus](/Documents/Motion%20-%20W19%20Syllabus.pdf) 
+[View on Github to access all content and the discussion board.](https://hsab.github.io/DESMA24-W19/)
 
 **Time**: Tuesday – Thursday 2:00pm–4:40pm  
 **Location**: Broad 4230  

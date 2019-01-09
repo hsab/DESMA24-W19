@@ -8,13 +8,13 @@
 
   
 
-**Professor**: Refik Anadol  
+**Professor**: [Refik Anadol](http://refikanadol.com/)  
 **Email**: refo@refikanadol.com  
 **Office Hours**: Tuesday 1:00pm-2:00pm or by appointment.
 
   
 
-**Teaching Assistant**: Hirad Sab  
+**Teaching Assistant**: [Hirad Sab](https://hiradsab.com/)  
 **Email**: dma@hiradsab.com  
 **Office Hours**: Tuesday 5:00pm-6:00pm or by appointment.
 
@@ -91,4 +91,4 @@ Various 3rd Party Plug-ins
 - Create a 30-60 second animated video with audio.
 
 **3. Final Project: Bioluminescence**
-- Create a 60 second projection mapped animation, with audio onto a sculptural form. Processes for creating this assignment will be explored in class.
+- Create a **60 second** projection mapped animation, with audio onto a sculptural form. Processes for creating this assignment will be explored in class.

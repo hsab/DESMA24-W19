@@ -6,6 +6,8 @@ Supplemental Books
 
 <a href="https://www.amazon.com/Beautiful-Evidence-Edward-R-Tufte/dp/1930824165" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/81mDbiZ7pmL.jpg" height="180"/></a><a href="https://www.amazon.com/Theory-Practice-Motion-Design-Perspectives/dp/1138490806" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/41jtCzOwouL._SX351_BO1,204,203,200_.jpg" height="180"/></a><a href="https://www.amazon.com/History-Motion-Graphics-Michael-Betancourt/dp/1434441504" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/517ymWOCx2L._SX331_BO1,204,203,200_.jpg" height="180"/></a><a href="https://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/51mu0NS88VL._SX403_BO1,204,203,200_.jpg" height="180"/></a>
 
+[**Search UCLA Library Database**](https://www.library.ucla.edu/search)
+
 Supplemental Videos Courses
 ----------
 

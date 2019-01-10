@@ -4,11 +4,9 @@
 Books
 --------
 
-- [Beautiful Evidence by Edward R. Tufte]()
-- [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+<a href="https://www.amazon.com/Beautiful-Evidence-Edward-R-Tufte/dp/1930824165" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/81mDbiZ7pmL.jpg" height="180"/></a>
 
-<a href="https://www.amazon.com/Beautiful-Evidence-Edward-R-Tufte/dp/1930824165" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/81mDbiZ7pmL.jpg" 
-alt="Beautiful Evidence by Edward R. Tufte" height="180" border="10" /></a>
+<a href="https://www.amazon.com/Theory-Practice-Motion-Design-Perspectives/dp/1138490806" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/41jtCzOwouL._SX351_BO1,204,203,200_.jpg" height="180"/></a>
 
 Videos Courses
 ----------

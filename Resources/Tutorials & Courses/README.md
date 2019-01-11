@@ -32,6 +32,12 @@ Suggested Courses & Video Tutorials
 - [**Blender Fundamentals [Youtube / ~4hrs]**](https://www.youtube.com/watch?v=kes2qmijy7w&list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1)  
 "Get a grasp of the most fundamental tools and concepts in Blender. Watch 41 short videos focusing on specific features from navigation, to modeling tools and Cycles shaders."
 
+- [**Getting Started With Blender 2.8 [Youtube / ~2hrs]**](https://www.youtube.com/playlist?list=PL32001WLw6WHTeo7Khqg0k1E5l1iPJc7e)  
+"Learn how to use the new Blender 2.8. Perfect for beginners or migrators of Blender 2.7!"
+
+- [**Blender 2.8: What's New? [Youtube / ~5hrs]**](https://www.youtube.com/playlist?list=PLXC318IRE7EeIBQnTacGPBKhqlCmRJP-T)  
+"Blender 2.8 is quite a bit different than previous versions.  With the addition of favoring left-click select and the UI changes, there's quite a bit to learn.  This playlist goes from the Alpha 2 Release through the new Beta release."
+
 - [**Blender Tutorials : Track, Match, Blend [Youtube / ~6hrs]**](https://www.youtube.com/watch?v=aKUh2ycnxNs&list=PL3wFcRXImVPP4qBrLiXaLb7fK6VerABK5)  
 "One of Blender’s strengths is the tight integration of Modelling, Rendering and Compositing. Since Blender 2.61 this integration has become even tighter with the arrival of the new camera tracking module, the MovieClipEditor. Importing footage, tracking and solving the camera-motion, rendering and compositing can now all be done in one smooth workflow, all inside Blender."
 

@@ -120,3 +120,4 @@ Assignments:
 Updates:
 ------
 **Jan 08**: Course website initiated.
+**Jan 10**: Resources updated with books, video tutorials, and plugin websites.

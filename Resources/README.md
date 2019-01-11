@@ -29,6 +29,7 @@ Supplemental Videos Courses
   - [Shape Layers in After Effects [Youtube]](https://www.youtube.com/watch?v=D7hE46t8Vm0)
   - [After Effects Fundamentals Course [Youtube / ~6hours]](https://www.youtube.com/playlist?list=PL9rnDcgHTOxiLPjJRbzO5GOzcahqZW19-)
   - [Mattrunks](https://mattrunks.com/en/tutorials)
+  - [Video Copilot](https://www.videocopilot.net/)
   
 - **Blender**
   - [Blender Fundamentals](https://www.youtube.com/watch?v=kes2qmijy7w&list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1)
@@ -45,6 +46,7 @@ Addons & Plugins
   - [aescripts+aeplugins](https://aescripts.com/)
   - [RED GIANT](https://www.redgiant.com/)
   - [Mister Horse](https://misterhorse.tv/)
+  - [Motion Array](https://motionarray.com/)
   
 - **Blender**
   - [Blender Market](https://blendermarket.com/)

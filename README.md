@@ -116,7 +116,7 @@ Assignments:
 **3. Final Project: Bioluminescence**
 - Create a **60 second** projection mapped animation, with audio onto a sculptural form. Processes for creating this assignment will be explored in class.
 
-Assignment Submission:
+Submission Guidelines:
 ----------
 Every student is responsible to create and maintain their respective folder on the [DMA Cloud](https://cloud.dma.ucla.edu/ws-home/myClasses/W19-24/drop) server. This is how we will access, review, and grade your assignments. [DMA Cloud](https://cloud.dma.ucla.edu/ws-home/myClasses/W19-24/drop) is accessible remotely through a web interface, as well as locally in the studios during class.  
 
@@ -151,7 +151,12 @@ Folders should be structured similar to the following:
 ```
 Aside from the structure above, there are no restriction on how many folders/files are created and stored on the cloud. 
 
-Please ensure that your final submission, which will be reviewed by us and presented by you during class is of acceptable quality. This means that it should contain an audio stream, is reasonable in size and can be easily played during presentations without frame skipping.
+Please ensure that your final submission, which will be reviewed by us and presented by you during class is of acceptable quality. This means that it should contain an audio stream, is reasonable in size and resolution, and can be played during presentations without any issues.
+
+Moreover keep in mind that uploading to the cloud could take a long time for large files. As such prepare assignment submissions in advance. It is your responsibility that presentation materials are ready and uploaded by the due date.
+
+[Handbrake](https://handbrake.fr/
+) is a great tool to convert large video files for web streaming and uploading. If you feel more adventurous try [FFmpeg](https://www.ffmpeg.org/).
 
 Updates:
 ------

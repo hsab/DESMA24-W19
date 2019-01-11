@@ -16,7 +16,7 @@ Supplemental Books
 
 [**Search UCLA Library Database**](https://www.library.ucla.edu/search)
 
-Supplemental Videos Courses
+Supplemental Videos Courses/Tutorials
 ----------
 
 - **General / Miscellaneous**

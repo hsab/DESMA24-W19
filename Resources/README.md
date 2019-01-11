@@ -25,7 +25,22 @@ Supplemental Videos Courses
 - **After Effects**
   - [Master After Effects [Lynda / 16hrs]](https://www.lynda.com/learning-paths/Video/master-after-effects)
   - [After Effects CC 2019: Complete Course from Novice to Expert [Udemy / 30hrs]](https://www.udemy.com/after-effects-kinetic-typography/)
+  - [After Effects Weekly [Lynda]](https://www.lynda.com/After-Effects-tutorials/After-Effects-Weekly/756334-2.html)
+  - [Shape Layers in After Effects [Youtube]](https://www.youtube.com/watch?v=D7hE46t8Vm0)
   - [After Effects Fundamentals Course [Youtube / ~6hours]](https://www.youtube.com/playlist?list=PL9rnDcgHTOxiLPjJRbzO5GOzcahqZW19-)
   
 - **Blender**
   - [Blender Fundamentals](https://www.youtube.com/watch?v=kes2qmijy7w&list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1)
+
+
+Addons & Plugins
+----------
+
+
+- **After Effects**
+  - [aescripts+aeplugins](https://aescripts.com/)
+  - [RED GIANT](https://www.redgiant.com/)
+  - [Mister Horse](https://misterhorse.tv/)
+  
+- **Blender**
+  - [Blender Market](https://blendermarket.com/)

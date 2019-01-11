@@ -1,6 +1,10 @@
 
 # DESMA24 - Motion (Winter 19)
 
+<p align="center">
+<img src="https://media.giphy.com/media/cv4hQsYzff5jW/giphy.gif">
+</p>
+
 [PDF version of the Syllabus](https://github.com/hsab/DESMA24-W19/blob/master/Documents/Motion%20-%20W19%20Syllabus.pdf)  
 [Access the course repository (View on Github) for all contents, files and the discussion board.](https://github.com/hsab/DESMA24-W19/)
 

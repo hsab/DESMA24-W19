@@ -28,9 +28,13 @@ Supplemental Videos Courses
   - [After Effects Weekly [Lynda]](https://www.lynda.com/After-Effects-tutorials/After-Effects-Weekly/756334-2.html)
   - [Shape Layers in After Effects [Youtube]](https://www.youtube.com/watch?v=D7hE46t8Vm0)
   - [After Effects Fundamentals Course [Youtube / ~6hours]](https://www.youtube.com/playlist?list=PL9rnDcgHTOxiLPjJRbzO5GOzcahqZW19-)
+  - [Mattrunks](https://mattrunks.com/en/tutorials)
   
 - **Blender**
   - [Blender Fundamentals](https://www.youtube.com/watch?v=kes2qmijy7w&list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1)
+  
+- **Cinema4D**
+  - [Grayscalegorilla](https://greyscalegorilla.com/)
 
 
 Addons & Plugins

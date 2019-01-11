@@ -22,7 +22,7 @@ Supplemental Videos Courses
 ----------
 
 - **General / Miscellaneous**
-  - [Visual Perception an the Brain [Duke University / 23hrs]](https://www.coursera.org/learn/visual-perception)
+  - [Visual Perception and the Brain [Duke University / 23hrs]](https://www.coursera.org/learn/visual-perception)
 
 - **After Effects**
   - [Master After Effects [Lynda / 16hrs]](https://www.lynda.com/learning-paths/Video/master-after-effects)

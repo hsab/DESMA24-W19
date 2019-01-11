@@ -119,6 +119,7 @@ Assignments:
 Assignment Submission:
 ----------
 Every student is responsible to create and maintain their respective folder on the [DMA Cloud](https://cloud.dma.ucla.edu/ws-home/myClasses/W19-24/drop) server. This is how we will access, review, and grade your assignments. [DMA Cloud](https://cloud.dma.ucla.edu/ws-home/myClasses/W19-24/drop) is accessible remotely through a web interface, as well as locally in the studios during class.  
+
 Folders should be structured similar to the following:
 ```
 -- Charlie Doe  

@@ -116,8 +116,46 @@ Assignments:
 **3. Final Project: Bioluminescence**
 - Create a **60 second** projection mapped animation, with audio onto a sculptural form. Processes for creating this assignment will be explored in class.
 
+Assignment Submission:
+----------
+Every student is responsible to create and maintain their respective folder on the [DMA Cloud](https://cloud.dma.ucla.edu/ws-home/myClasses/W19-24/drop) server. This is how we will access, review, and grade your assignments. [DMA Cloud](https://cloud.dma.ucla.edu/ws-home/myClasses/W19-24/drop) is accessible remotely through a web interface, as well as locally in the studios during class.  
+Folders should be structured similar to the following:
+```
+-- Charlie Doe  
+    -- Assignment 01  
+        -- AEP  
+        -- Misc  
+        -- Render  
+        -- Storyboard
+    -- Assignment 02
+        -- AEP
+        -- Misc
+        -- Render
+        -- Storyboard
+    -- Assignment 03
+        -- AEP
+        -- Misc
+        -- Render
+        -- Storyboard
+    -- Midterm
+        -- AEP
+        -- Misc
+        -- Render
+        -- Storyboard
+    -- Final
+        -- AEP
+        -- Misc
+        -- Render
+        -- Storyboard
+```
+Aside from the structure above, there are no restriction on how many folders/files are created and stored on the cloud. 
+
+Please ensure that your final submission, which will be reviewed by us and presented by you during class is of acceptable quality. This means that it should contain an audio stream, is reasonable in size and can be easily played during presentations without frame skipping.
 
 Updates:
 ------
 **Jan 08**: Course website initiated.  
-**Jan 10**: Resources updated with books, video tutorials, and plugin websites.
+**Jan 10**: Resources updated with books, video tutorials, and plugin websites.  
+**Jan 11**: Resource folder restructuring.  
+**Jan 11**: Submission guidelines added.  
+

@@ -28,3 +28,6 @@ Supplemental Videos Courses
   - [Master After Effects [Lynda / 16hrs]](https://www.lynda.com/learning-paths/Video/master-after-effects)
   - [After Effects CC 2019: Complete Course from Novice to Expert [Udemy / 30hrs]](https://www.udemy.com/after-effects-kinetic-typography/)
   - [After Effects Fundamentals Course [Youtube / ~6hours]](https://www.youtube.com/playlist?list=PL9rnDcgHTOxiLPjJRbzO5GOzcahqZW19-)
+  
+- **Blender**
+  - [Blender Fundamentals](https://www.youtube.com/watch?v=kes2qmijy7w&list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1)

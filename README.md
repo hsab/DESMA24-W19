@@ -122,7 +122,7 @@ Folders should be structured similar to the following:
 ```
 -- Charlie Doe  
     -- Assignment 01  
-        -- AEP  
+        -- AEP
         -- Misc  
         -- Render  
         -- Storyboard
@@ -136,6 +136,10 @@ Folders should be structured similar to the following:
         -- Misc
         -- Render
         -- Storyboard
+    -- EXERCISE Audio & Image 
+        -- AEP
+        -- Misc  
+        -- Render  
     -- Midterm
         -- AEP
         -- Misc

@@ -62,28 +62,28 @@ Schedule
 
 | Week        | Date           | Plan  |
 | ------------- |:-------------| :-----|
-|**Week 1**| Jan 08 | Lecture: Introduction & **Prepare Storyboard for Assignment 1**
-| | Jan 10 | **Review Storyboard 1** / Introduction to AE|
-|**Week 2**| Jan 15 | Studio / Tutorials / ***EXERCISE: Audio & Image**|
-| | Jan 17 | Tutorial Class with Kian Khiaban (Cinema 4D)|
-|**Week 3**| Jan 22 | Tutorial Class with Toby Heinemann (Processing)|
-| | Jan 24 | **Assignment 1 Due / PRESENTATIONS**|
-|**Week 4**| Jan 29 | Prepare Storyboard for 	**Assignment 2 : Immersion**|
-| | Jan 31 | **Review** Storyboard 2 / **Present** Inspirations / Studio|
-|**Week 5**| Feb 5 | Workshop / * Guest Speaker|
-| | Feb 7 | Studio / Tutorials|
-|**Week 6**|Feb 12 | Studio / Tutorials|
-| | Feb 14 | Lecture: Introduction|
-|**Week 7**| Feb 19 | **Assignment 2 Due / PRESENTATIONS**|
-| | Feb 21 | Prepare Storyboard for **Assignment 3 : Bioluminescence**
-|||Workshop / Projection Mapping|
-|**Week 8**|Feb 26 | Prepare Storyboard for **Assignment 3 : Bioluminescence** |
-|||**Review** Storyboard 2 / **Present** Inspirations / Studio|
-| | Feb 28 | **Workshop / Projection Mapping**|
-|**Week 9**|Mar 5 | Studio / Tutorials|
-| | Mar 7 | Studio / Tutorials|
+|**Week 1** | Jan 08 | Lecture: Introduction & **Prepare Storyboard for Assignment 1**
+|           | Jan 10 | **Review Storyboard 1** / Introduction to AE|
+|**Week 2** | Jan 15 | Studio / Tutorials / ***EXERCISE: Audio & Image**|
+|           | Jan 17 | Tutorial Class with Kian Khiaban (Cinema 4D)|
+|**Week 3** | Jan 22 | Studio / Tutorials |
+|           | Jan 24 | Studio / Tutorials |
+|**Week 4** | Jan 29 | **Assignment 1 Due / PRESENTATIONS**|
+|           | Jan 31 | Prepare Storyboard for 	**Assignment 2 : Immersion**|
+|**Week 5** | Feb 5 | **Review** Storyboard 2 / **Present** Inspirations / Studio|
+|           | Feb 7 | Studio / Tutorials|
+|**Week 6** |Feb 12 | Studio / Tutorials|
+|           | Feb 14 | Lecture: Introduction|
+|**Week 7** | Feb 19 | **Assignment 2 Due / PRESENTATIONS**|
+|           | Feb 21 | Prepare Storyboard for **Assignment 3 : Bioluminescence**
+|           |        |Workshop / Projection Mapping|
+|**Week 8** |Feb 26 | Prepare Storyboard for **Assignment 3 : Bioluminescence** |
+|           |       |**Review** Storyboard 2 / **Present** Inspirations / Studio|
+|           | Feb 28 | **Workshop / Projection Mapping**|
+|**Week 9** |Mar 5 | Studio / Tutorials|
+|           | Mar 7 | Studio / Tutorials|
 |**Week 10**| Mar 12 | Studio / Tutorials|
-| | Mar 14 | Studio / Tutorials|
+|           | Mar 14 | Studio / Tutorials|
 |**Week 11**| Mar 29 | Exhibition!|
 
 
@@ -177,4 +177,5 @@ Updates:
 **Jan 10**: Resources updated with books, video tutorials, and plugin websites.  
 **Jan 11**: Resource folder restructuring.  
 **Jan 11**: Submission guidelines added.  
+**Jan 21**: Updated schedule.  
 

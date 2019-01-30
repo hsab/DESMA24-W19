@@ -54,7 +54,7 @@ CADnav is the online 3D Models Library for CGI graphic designers and CAD/CAM/CAE
 
 
 <a href="https://archive3d.net/" target="_blank"><img src="http://www.userlogos.org/files/logos/max0ne/Archive3d.png" height="50"/></a>  
-A collection of 3D models, usually in 3dx format.
+A collection of 3D models, usually in 3ds Max format.
 
 
 <a href="https://www.daz3d.com/" target="_blank"><img src="http://hanatemplate.com/images/best-free-graphics-software-1.png" height="50"/></a>  

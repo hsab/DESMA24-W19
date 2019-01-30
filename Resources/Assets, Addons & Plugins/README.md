@@ -37,7 +37,7 @@ CGTrader is the leading 3D content provider globally, running an online 3D model
 <a href="https://www.turbosquid.com/" target="_blank"><img src="https://static1.squarespace.com/static/55bbf921e4b09c9ffac44664/55ccb1e8e4b0a97dcef36a5d/55ccb23ee4b0a97dcef371c0/1439478494234/Turbosquid.jpg" height="50"/></a>  
 TurboSquid models are used by game developers, news agencies, architects, visual effects studios, advertisers, and creative professionals around the world. Whether you're a 3D artist or not, you've probably seen TurboSquid models hundreds of times and didn't know it - which is fine with us!
 
-<a href="https://sketchfab.com/models?date=week&features=downloadable&sort_by=-likeCount" target="_blank"><img src="https://static.sketchfab.com/img/press/logos/logo.png" height="50"/></a>  
+<a href="https://sketchfab.com/models?features=downloadable&sort_by=-likeCount" target="_blank"><img src="https://static.sketchfab.com/img/press/logos/logo.png" height="50"/></a>  
 Sketchfab is empowering a new era of creativity by making it easy for anyone to publish and find 3D content online. With a community of millions of creators who have published millions of models, we are the largest platform for immersive and interactive 3D. Additionally, our store lets buyers and sellers transact 3D models with confidence using our realtime viewer and model inspector.
 
 

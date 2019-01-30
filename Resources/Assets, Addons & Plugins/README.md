@@ -18,7 +18,7 @@ Assets, Addons & Plugins
 <a href="https://motionarray.com/" target="_blank"><img src="https://motionarray.com/assets/images/shared/logo@2x.png" height="50"/></a>  
 "Make amazing videos, get feedback and approval and share your work with the world."
 
-------
+
 ## Blender
 
 <a href="https://blendermarket.com/" target="_blank"><img src="https://pbs.twimg.com/profile_images/446293248902832128/K5-qvhy3_400x400.png" height="50"/></a>  
@@ -28,7 +28,7 @@ Assets, Addons & Plugins
 <a href="https://www.blendswap.com/" target="_blank"><img src="https://pbs.twimg.com/profile_images/3161876486/8d66494d4937458b30bbff8ab06ea6ed_400x400.png" height="50"/></a>  
 "Blend Swap's mission is to create a place where Blender powered 3D Artists can share, exchange, collaborate and learn from other artists in the community. We strive to showcase and advance the individual artist with staff picks, featured monthly artist and collaborations with some of the top Blender sites to showcase the artist’s work."
 
---------
+
 ## 3D Resources
 <a href="https://www.cgtrader.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/CGTrader.png" height="50"/></a>  
 CGTrader is the leading 3D content provider globally, running an online 3D model marketplace of the same name, a custom modeling platform called 3D Projects, and offering mass 3D modeling solutions to enterprise customers globally.

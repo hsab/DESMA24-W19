@@ -178,4 +178,4 @@ Updates:
 **Jan 11**: Resource folder restructuring.  
 **Jan 11**: Submission guidelines added.  
 **Jan 21**: Updated schedule.  
-
+**Jan 29**: Added 3D resources to [Assets, Addons & Plugins](https://github.com/hsab/DESMA24-W19/tree/master/Resources/Assets%2C%20Addons%20%26%20Plugins)

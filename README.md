@@ -180,5 +180,5 @@ Updates:
 **Jan 21**: Updated schedule.  
 **Jan 29**: Added 3D resources to [Assets, Addons & Plugins](https://github.com/hsab/DESMA24-W19/tree/master/Resources/Assets%2C%20Addons%20%26%20Plugins).  
 **Jan 31**: Immersive Space Manual.pdf added to [Documents](https://github.com/hsab/DESMA24-W19/tree/master/Documents) folder.  
-**Jan 31**: Immersive example video files added to [Documents](https://github.com/hsab/DESMA24-W19/tree/master/Documents)  folder.
+**Jan 31**: Immersive example video files added to [Documents](https://github.com/hsab/DESMA24-W19/tree/master/Documents)  folder.  
 **Jan 31**: EDA 3D models added to [Documents](https://github.com/hsab/DESMA24-W19/tree/master/Documents) folder.

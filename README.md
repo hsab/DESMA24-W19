@@ -183,3 +183,4 @@ Updates:
 **Jan 31**: Immersive Space Manual.pdf added to [Documents](https://github.com/hsab/DESMA24-W19/tree/master/Documents) folder.  
 **Jan 31**: Immersive example video files added to [Documents](https://github.com/hsab/DESMA24-W19/tree/master/Documents)  folder.  
 **Jan 31**: EDA 3D models added to [Documents](https://github.com/hsab/DESMA24-W19/tree/master/Documents) folder.
+**Jan 12**: Updated schedule

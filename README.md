@@ -2,7 +2,7 @@
 # DESMA24 - Motion (Winter 19)
 
 <p align="center">
-<img src="https://github.com/hsab/DESMA24-W19/blob/master/Documents/output.gif?raw=true">
+<img style="width:100%;" src="https://github.com/hsab/DESMA24-W19/blob/master/Documents/output.gif?raw=true">
 </p>
 
 [PDF version of the Syllabus](https://github.com/hsab/DESMA24-W19/blob/master/Documents/Motion%20-%20W19%20Syllabus.pdf)  

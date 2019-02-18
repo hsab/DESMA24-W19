@@ -70,19 +70,17 @@ Schedule
 |           | Jan 24 | Studio / Tutorials |
 |**Week 4** | Jan 29 | **Assignment 1 Due / PRESENTATIONS**|
 |           | Jan 31 | Prepare Storyboard for 	**Assignment 2 : Immersion**|
-|**Week 5** | Feb 5 | **Review** Storyboard 2 / **Present** Inspirations / Studio|
-|           | Feb 7 | Studio / Tutorials|
+|**Week 5** | Feb 5  | **Review** Storyboard 2 / **Present** Inspirations / Studio|
+|           | Feb 7  | Studio / Tutorials|
 |**Week 6** | Feb 12 | Studio / Tutorials|
-|           | Feb 14 | Studio / Tutorials|
-|           |        | **Workshop / Projection Mapping @ EDA**|
+|           | Feb 14 | **Workshop / Projection Mapping @ EDA**|
 |**Week 7** | Feb 19 | Studio / Tutorials|
-|           | Feb 21 | Studio / Tutorials|
-|           |        | **Workshop / Projection Mapping @ EDA**|
+|           | Feb 21 | **Workshop / Projection Mapping @ EDA**|
 |**Week 8** | Feb 26 | **Assignment 2 Due / PRESENTATIONS**|
-|           |       | **Review** Storyboard 2 / **Present** Inspirations / Studio|
+|           |        | **Review** Storyboard 2 / **Present** Inspirations / Studio|
 |           | Feb 28 | **Prepare** Storyboard for **Assignment 3 : Bioluminescence** |
-|**Week 9** | Mar 5 | **Present** Storyboard for **Assignment 3 : Bioluminescence** |
-|           | Mar 7 | Studio / Tutorials|
+|**Week 9** | Mar 5  | **Present** Storyboard for **Assignment 3 : Bioluminescence** |
+|           | Mar 7  | Studio / Tutorials|
 |**Week 10**| Mar 12 | Studio / Tutorials|
 |           | Mar 14 | Studio / Tutorials|
 |**Week 11**| Mar 19 | Exhibition!|

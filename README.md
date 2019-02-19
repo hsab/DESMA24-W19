@@ -78,12 +78,11 @@ Schedule
 |           | Feb 21 | **Workshop / Projection Mapping @ EDA**|
 |**Week 8** | Feb 26 | **Assignment 2 Due / PRESENTATIONS**|
 |           |        | **Review** Storyboard 2 / **Present** Inspirations / Studio|
-|           | Feb 28 | **Prepare** Storyboard for **Assignment 3 : Bioluminescence** |
-|**Week 9** | Mar 5  | **Present** Storyboard for **Assignment 3 : Bioluminescence** |
+|           | Feb 28 | **Present** Storyboard for **Assignment 3 : Bioluminescence** |
+|**Week 9** | Mar 5  | Studio / Tutorials|
 |           | Mar 7  | Studio / Tutorials|
-|**Week 10**| Mar 12 | Studio / Tutorials|
-|           | Mar 14 | Studio / Tutorials|
-|**Week 11**| Mar 19 | Exhibition!|
+|**Week 10**| Mar 12 | Exhibition!|
+
 
 
 Assignments:
